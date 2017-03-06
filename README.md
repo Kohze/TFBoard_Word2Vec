@@ -1,6 +1,6 @@
 ### Tensorflow Board + Word2Vec 
 
-This is a full example the tensorflow board with Word2Vec as seen in the google AI experiments Video
+This is a full example the tensorflow board with Word2Vec as seen in the google AI Experiments Video [AI Experiments Video](https://aiexperiments.withgoogle.com/visualizing-high-dimensional-space)
 
 --------------
 
@@ -9,9 +9,9 @@ This is a full example the tensorflow board with Word2Vec as seen in the google 
 Word2Vec is one of the most common used NLP machine learning tools to cluster words based on co-occurance (skipgram model). 
 Due to the programmatic nature of Word2Vec, the resulting word vectors are high dimensional (>200 dimensions). To make those word vectors human interpretable common dimensionality reduction techniques are PCA or T-SNE.  
 
-With the Google Tensorflow Board users have the advantage to see the stepwise learning process of the algorithm and to study the word vector graphics in a D3.js based interactive interface.
+With the Google TF Board, users have the chance to see the stepwise learning process of the algorithm and to study the word vector graphics in a D3.js based interactive interface.
 
-In this repo the advanced word2vec.py example from tensorflow was taken and connected to the tensorflow board by writing a pipeline with all neccessary steps by training on the sample text file and opening the tensor board.  
+In this repo the advanced [word2vec.py example](https://www.tensorflow.org/tutorials/word2vec) from tensorflow was taken and connected to the TF board by writing a pipeline with all neccessary training steps & browser opening.  
 
 #### Build pre-requisites
 
