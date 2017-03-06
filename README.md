@@ -30,11 +30,11 @@ In this repo the advanced word2vec.py example from tensorflow was taken and conn
 
 The standart interface (with T-SNE)
 
-![alt tag](https://firebasestorage.googleapis.com/v0/b/rscriptmarket-66f49.appspot.com/o/statics%2Fgithub%2Ftensorboard1.png)
+![alt tag](https://firebasestorage.googleapis.com/v0/b/rscriptmarket-66f49.appspot.com/o/statics%2Fgithub%2Ftensorboard1.png?alt=media&token=04a51b8a-b670-464d-b1d6-759361e52df9)
 
 The focused interface (with PCA)
 
-![alt tag](http://animations.vaionex.com/Discovr/DSC03137.jpg)
+![alt tag](https://firebasestorage.googleapis.com/v0/b/rscriptmarket-66f49.appspot.com/o/statics%2Fgithub%2Ftensorboard2.png?alt=media&token=75caa3da-b1e2-4c71-802b-ea04a4501d4c)
 
 
 #### Next Steps:
