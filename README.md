@@ -22,7 +22,7 @@ In this repo the advanced [word2vec.py example](https://www.tensorflow.org/tutor
 #### Installation Steps: 
 
  - git clone https://github.com/tensorflow/models
- - Follow the word2vec steps according to the [manual](https://github.com/tensorflow/models/tree/master/tutorials/embedding) by downloading the example text g++ compiling and (execute those steps in the /tutorials/embedding folder)
+ - Follow the word2vec steps according to the [manual](https://github.com/tensorflow/models/tree/master/tutorials/embedding) by downloading the example text and g++ compiling (execute those steps in the /tutorials/embedding folder)
  - copy the pipeline.py and word2vec.py from this repo into the /tutorials/embedding folder
  - Run ```python pipeline.py --epochs_to_train 3 --train_data text8 --eval_data questions-words.txt --save_path /tmp/log``` in the command line
   
@@ -41,5 +41,6 @@ The focused interface (with PCA)
 
  - add document2vec algorithms
  - improve speed & efficiency of the word2vec.py file
+
 
   
